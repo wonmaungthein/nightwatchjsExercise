@@ -1,0 +1,22 @@
+{
+  "name": "nightwatchjsexercise",
+  "version": "1.0.0",
+  "description": "To learn automation testing",
+  "main": "nightwatch.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wonmaungthein/nightwatchjsExercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wonmaungthein/nightwatchjsExercise/issues"
+  },
+  "homepage": "https://github.com/wonmaungthein/nightwatchjsExercise#readme",
+  "dependencies": {
+    "nightwatch": "^1.0.14"
+  }
+}
